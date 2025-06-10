@@ -1,0 +1,21 @@
+# Ignore logs and cache
+*.log
+*.bak
+*.tmp
+
+# Ignore mailbox test files
+*.mbox
+*.eml
+
+# Ignore macOS artifacts
+.DS_Store
+
+# Ignore editor backups
+*~
+
+# Ignore output directories
+/output/
+
+# Ignore user-specific config or dump files
+.env
+*.swp
